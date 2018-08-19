@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #ffebee
+}
+.hio{
+  color: #cb9ca1;
+  text-align: center;
+  font-weight: 300;
+}
+/* label:focus{
+  color: #cb9ca1 !important;
+}
+.MuiInput-underline-25:after{
+  border-bottom: 2px solid #cb9ca1 !important;
+} */
